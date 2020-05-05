@@ -1,5 +1,5 @@
 # Budget Planner
-You can visit the deployed app here:
+You can visit the deployed app [here](https://femi-budget-planner.herokuapp.com/)
 
 
 
